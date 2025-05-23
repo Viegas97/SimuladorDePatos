@@ -1,0 +1,95 @@
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\bin\Debug\Simulador_Patos-POO.exe.config
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\bin\Debug\Simulador_Patos-POO.exe
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\bin\Debug\Simulador_Patos-POO.pdb
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos-POO.exe
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos-POO.pdb
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos_POO.Form1.resources
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe.config
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.pdb
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Form1.resources
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.FormPatolino.resources
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe.config
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.pdb
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Form1.resources
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.FormPatolino.resources
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
+C:\Users\jfgam\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe.config
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.pdb
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe.config
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Form1.resources
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.FormPatolino.resources
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
+C:\Users\gabriel.viegas\Downloads\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Form1.resources
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.FormPatolino.resources
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe.config
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2)\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.pdb
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2) - Copia\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe.config
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2) - Copia\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2) - Copia\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.pdb
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2) - Copia\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2) - Copia\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Form1.resources
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2) - Copia\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2) - Copia\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2) - Copia\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2) - Copia\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
+C:\Users\ViegasZ\Downloads\Simulador_Patos-POO-main (2) - Copia\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+C:\Users\ViegasZ\Downloads\PRINCIPAL PATOS\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+C:\Users\ViegasZ\Downloads\PRINCIPAL PATOS\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
+C:\Users\ViegasZ\Downloads\PRINCIPAL PATOS\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+C:\Users\ViegasZ\Downloads\PRINCIPAL PATOS\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe.config
+C:\Users\ViegasZ\Downloads\PRINCIPAL PATOS\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe
+C:\Users\ViegasZ\Downloads\PRINCIPAL PATOS\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.pdb
+C:\Users\ViegasZ\Downloads\PRINCIPAL PATOS\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Form1.resources
+C:\Users\ViegasZ\Downloads\PRINCIPAL PATOS\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+C:\Users\ViegasZ\Downloads\PRINCIPAL PATOS\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+C:\Users\ViegasZ\Downloads\PRINCIPAL PATOS\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+C:\Users\ViegasZ\Downloads\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe.config
+C:\Users\ViegasZ\Downloads\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe
+C:\Users\ViegasZ\Downloads\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.pdb
+C:\Users\ViegasZ\Downloads\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+C:\Users\ViegasZ\Downloads\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Form1.resources
+C:\Users\ViegasZ\Downloads\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+C:\Users\ViegasZ\Downloads\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+C:\Users\ViegasZ\Downloads\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+C:\Users\ViegasZ\Downloads\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
+C:\Users\ViegasZ\Downloads\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+C:\Users\ViegasZ\Downloads\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+C:\Users\ViegasZ\Downloads\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Form1.resources
+C:\Users\ViegasZ\Downloads\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+C:\Users\ViegasZ\Downloads\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+C:\Users\ViegasZ\Downloads\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+C:\Users\ViegasZ\Downloads\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
+C:\Users\ViegasZ\Downloads\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+C:\Users\ViegasZ\Downloads\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe.config
+C:\Users\ViegasZ\Downloads\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe
+C:\Users\ViegasZ\Downloads\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.pdb
