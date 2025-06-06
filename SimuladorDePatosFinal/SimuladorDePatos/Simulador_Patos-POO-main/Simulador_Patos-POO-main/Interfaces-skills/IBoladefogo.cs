@@ -9,5 +9,7 @@ namespace Simulador_Patos_POO
     internal interface IBoladefogo
     {
         string SoltarFogo();
+
+        //teste.
     }
 }
