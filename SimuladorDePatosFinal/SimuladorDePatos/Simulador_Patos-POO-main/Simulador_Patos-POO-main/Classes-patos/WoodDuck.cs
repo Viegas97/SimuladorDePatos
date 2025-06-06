@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Simulador_Patos_POO
 {
-    internal class WoodDuck : Pato, IReciclar
+    internal class WoodDuck : IReciclar
     {
         public string Reciclavel()
         {
             return "Meio ambiente";
         }
-        public override string display()
+        public string display()
         {
             return "Pato de Madeira!";
         }

@@ -104,3 +104,14 @@ C:\Users\felipecastro\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\Simula
 C:\Users\felipecastro\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
 C:\Users\felipecastro\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
 C:\Users\felipecastro\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe.config
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Form1.resources
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe.config
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe
+C:\Users\1gabr\Source\Repos\SimuladorDePatos\SimuladorDePatosFinal\SimuladorDePatos\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.pdb

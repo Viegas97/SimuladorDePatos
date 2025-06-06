@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Simulador_Patos_POO
 {
-    public class RedHeadDuck:Pato,IFlayable,IQuackable
+    public class RedHeadDuck: IFlayable,IQuackable
     {
-        public override string display()
+        public string display()
         {
             return "Pato Cabeça Vermelha!";
         }
+        
         public string fly()
         {
             return "Voar";
