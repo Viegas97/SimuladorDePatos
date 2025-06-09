@@ -6,12 +6,23 @@ namespace Simulador_Patos_POO
     public partial class Form1 : Form
     {
         public int index = 0;
+        
 
         public Form1()
         {
             InitializeComponent();
             index = 0;
             EscolherPato();
+            voltar_skills.Visible = false;
+            skill_text.Visible = false;
+            skill_text.AutoSize = false;
+            skill_text.Size = new Size(300, 30);
+            skill_text.Location = new Point(
+                (this.ClientSize.Width - skill_text.Width) / 2,
+                voltar_skills.Location.Y - skill_text.Height - 10
+            );
+
+            skill_text.TextAlign = ContentAlignment.MiddleCenter;
         }
 
         private void EscolherPato()
@@ -79,11 +90,6 @@ namespace Simulador_Patos_POO
             EscolherPato();
         }
 
-        private void habilidade1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Escolhe_Pato_Click(object sender, EventArgs e)
         {                     
 
@@ -99,6 +105,8 @@ namespace Simulador_Patos_POO
             Escolhe_Pato.Visible = false;
 
             label1.Visible = false;
+            skill_text.Visible = false;
+            voltar_skills.Visible = false;
    
             CriarPato();
         }
@@ -157,91 +165,102 @@ namespace Simulador_Patos_POO
 
         private void button1_Click(object sender, EventArgs e)
         {
-            switch (index) 
-            { 
+            skill_text.Visible = true;
+            hab1.Visible = false;
+            hab2.Visible = false;
+            hab3.Visible = false;
+            voltar_skills.Visible = true;
+
+            switch (index)
+            {
                 case 0:
-                    MessageBox.Show("Quack!");
+                    skill_text.Text = "Quack!";
                     break;
                 case 1:
-                    MessageBox.Show("sons de borracha...");
+                    skill_text.Text = "sons de borracha...";
                     break;
-
                 case 2:
-                    MessageBox.Show("Quack!");
+                    skill_text.Text = "Quack!";
                     break;
-
                 case 3:
-                    MessageBox.Show("Soltando fogo!");
+                    skill_text.Text = "Soltando fogo!";
                     break;
-
                 case 4:
-                    //sem habilidade
+                    skill_text.Text = ""; // Sem habilidade
                     break;
-
                 case 5:
-                    MessageBox.Show("Olá!");
+                    skill_text.Text = "Olá!";
                     break;
             }
         }
+
+
         private void hab2_Click(object sender, EventArgs e)
         {
+            skill_text.Visible = true;
+            hab1.Visible = false;
+            hab2.Visible = false;
+            hab3.Visible = false;
+            voltar_skills.Visible = true;
+
             switch (index)
             {
                 case 0:
-                    MessageBox.Show("Estou Voando!");
+                    skill_text.Text = "Estou Voando!";
                     break;
-
                 case 1:
-                    //sem habilidade
+                    skill_text.Text = "";
                     break;
-
                 case 2:
-                    MessageBox.Show("Estou Voando!");
+                    skill_text.Text = "Estou Voando!";
                     break;
-
                 case 3:
-                    MessageBox.Show("Estou voando!");
+                    skill_text.Text = "Estou voando!";
                     break;
-
                 case 4:
-
-                    MessageBox.Show("Sou reciclável!");
+                    skill_text.Text = "Sou reciclável!";
                     break;
-
                 case 5:
-                    MessageBox.Show("Estou voando!");
+                    skill_text.Text = "Estou voando!";
                     break;
             }
         }
+
         private void button3_Click(object sender, EventArgs e)
         {
+            skill_text.Visible = true;
+            hab1.Visible = false;
+            hab2.Visible = false;
+            hab3.Visible = false;
+            voltar_skills.Visible = true;
+            
+
+
+
+
             switch (index)
             {
                 case 0:
-                    MessageBox.Show("Estou nadando!");
+                    skill_text.Text = "Estou nadando!";
                     break;
-
                 case 1:
-                    MessageBox.Show("Boiando!");
+                    skill_text.Text = "Boiando!";
                     break;
-
                 case 2:
-                    MessageBox.Show("Estou nadando!");
+                    skill_text.Text = "Estou nadando!";
                     break;
-
                 case 3:
-                    MessageBox.Show("Olá!");
+                    skill_text.Text = "Olá!";
                     break;
-
                 case 4:
-                    //sem habilidade
+                    skill_text.Text = ""; // Sem habilidade
                     break;
-
                 case 5:
-                    MessageBox.Show("Posso enferrujar!");
+                    skill_text.Text = "Posso enferrujar!";
                     break;
             }
         }
+
         private void button2_Click(object sender, EventArgs e)
         {
         }
@@ -259,6 +278,8 @@ namespace Simulador_Patos_POO
 
             Escolhe_Pato.Visible = true;
             label1.Visible = true;
+            voltar_skills.Visible = false;
+            skill_text.Visible = false;
         }
 
         private void ImagemPato_Click(object sender, EventArgs e)
@@ -266,6 +287,49 @@ namespace Simulador_Patos_POO
         }
         private void display_Pato_Click(object sender, EventArgs e)
         {
+        }
+
+        private void voltar_skills_Click(object sender, EventArgs e)
+        {
+            Anterior.Visible = false;
+            Proximo.Visible = false;
+
+            menu.Visible = true;
+
+            Escolhe_Pato.Visible = false;
+            label1.Visible = false;
+            voltar_skills.Visible = false;
+            skill_text.Visible = false;
+
+            // Garantir que as habilidades sejam configuradas corretamente ao voltar
+            switch (index)
+            {
+                case 0: // MallardDuck tem todas as habilidades
+                case 2: // RedHeadDuck tem todas as habilidades
+                case 3: // FireDuck tem todas as habilidades
+                case 5: // RobotDuck tem todas as habilidades
+                    hab1.Visible = true;
+                    hab2.Visible = true;
+                    hab3.Visible = true;
+                    break;
+
+                case 1: // RubberDuck não tem a segunda habilidade
+                    hab1.Visible = true;
+                    hab2.Visible = false;
+                    hab3.Visible = true;
+                    break;
+
+                case 4: // WoodDuck não tem hab1 e hab3
+                    hab1.Visible = false;
+                    hab2.Visible = true;
+                    hab3.Visible = false;
+                    break;
+            }
+        }
+
+        private void skill_text_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

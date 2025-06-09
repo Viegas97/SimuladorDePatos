@@ -38,6 +38,8 @@
             this.hab2 = new System.Windows.Forms.Button();
             this.hab3 = new System.Windows.Forms.Button();
             this.menu = new System.Windows.Forms.Button();
+            this.voltar_skills = new System.Windows.Forms.Button();
+            this.skill_text = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.ImagemPato)).BeginInit();
             this.SuspendLayout();
             // 
@@ -155,16 +157,40 @@
             this.menu.Name = "menu";
             this.menu.Size = new System.Drawing.Size(93, 35);
             this.menu.TabIndex = 13;
-            this.menu.Text = "Voltar";
+            this.menu.Text = "Voltar ao Menu";
             this.menu.UseVisualStyleBackColor = true;
             this.menu.Visible = false;
             this.menu.Click += new System.EventHandler(this.menu_Click);
+            // 
+            // voltar_skills
+            // 
+            this.voltar_skills.Location = new System.Drawing.Point(285, 349);
+            this.voltar_skills.Name = "voltar_skills";
+            this.voltar_skills.Size = new System.Drawing.Size(75, 23);
+            this.voltar_skills.TabIndex = 14;
+            this.voltar_skills.Text = "Voltar";
+            this.voltar_skills.UseVisualStyleBackColor = true;
+            this.voltar_skills.Click += new System.EventHandler(this.voltar_skills_Click);
+            // 
+            // skill_text
+            // 
+            this.skill_text.AutoSize = true;
+            this.skill_text.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.skill_text.Location = new System.Drawing.Point(281, 320);
+            this.skill_text.Name = "skill_text";
+            this.skill_text.Size = new System.Drawing.Size(79, 24);
+            this.skill_text.TabIndex = 15;
+            this.skill_text.Text = "skill_text";
+            this.skill_text.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.skill_text.Click += new System.EventHandler(this.skill_text_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(653, 394);
+            this.Controls.Add(this.skill_text);
+            this.Controls.Add(this.voltar_skills);
             this.Controls.Add(this.menu);
             this.Controls.Add(this.hab3);
             this.Controls.Add(this.hab2);
@@ -196,6 +222,8 @@
         private System.Windows.Forms.Button hab2;
         private System.Windows.Forms.Button hab3;
         private System.Windows.Forms.Button menu;
+        private System.Windows.Forms.Button voltar_skills;
+        private System.Windows.Forms.Label skill_text;
     }
 }
 
