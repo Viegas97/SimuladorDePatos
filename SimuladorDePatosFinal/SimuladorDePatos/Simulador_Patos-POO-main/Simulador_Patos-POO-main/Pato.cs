@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/*namespace Simulador_Patos_POO
+namespace Simulador_Patos_POO
 {
     public class Pato
     {
@@ -20,4 +20,3 @@ using System.Threading.Tasks;
 
     }
 }
-\*/

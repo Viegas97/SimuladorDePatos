@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Simulador_Patos_POO
 {
-    internal class FireDuck : IFlayable, IBoladefogo, IQuackable
+    internal class FireDuck : Pato, IFlayable, IBoladefogo, IQuackable
     {
         public string SoltarFogo()
         {

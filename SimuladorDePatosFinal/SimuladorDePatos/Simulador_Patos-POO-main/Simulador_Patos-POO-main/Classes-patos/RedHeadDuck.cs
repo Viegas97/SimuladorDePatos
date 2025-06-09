@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Simulador_Patos_POO
 {
-    public class RedHeadDuck: IFlayable,IQuackable
+    public class RedHeadDuck: Pato, IFlayable,IQuackable
     {
         public string display()
         {

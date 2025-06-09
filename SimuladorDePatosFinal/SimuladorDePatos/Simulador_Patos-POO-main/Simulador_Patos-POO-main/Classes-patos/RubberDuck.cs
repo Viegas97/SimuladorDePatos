@@ -7,7 +7,7 @@ using Simulador_Patos_POO.Interfaces_skills;
 
 namespace Simulador_Patos_POO
 {
-    public class RubberDuck : IQuackable, ISwimmable
+    public class RubberDuck : Pato, IQuackable, ISwimmable
     {
         public string display()
         {

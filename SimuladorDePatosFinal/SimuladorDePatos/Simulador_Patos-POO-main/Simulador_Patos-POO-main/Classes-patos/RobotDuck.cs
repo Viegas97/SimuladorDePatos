@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Simulador_Patos_POO
 {
-    public class RobotDuck : IFlayable, IQuackable, IEnferrujar
+    public class RobotDuck : Pato, IFlayable, IQuackable, IEnferrujar
     {
         public string quack()
         {

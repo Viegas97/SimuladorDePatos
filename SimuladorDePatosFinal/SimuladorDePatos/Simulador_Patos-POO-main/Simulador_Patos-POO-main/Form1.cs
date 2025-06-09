@@ -48,7 +48,7 @@ namespace Simulador_Patos_POO
                     this.BackColor = Color.DarkRed; // Red Head Duck - Vermelho
                     break;
                 case 3:
-                    ImagemPato.Load("https://pm1.aminoapps.com/7254/3d9aabee363545e17505a85eead15ce8456d5133r1-720-719v2_uhq.jpg");
+                    ImagemPato.Load("https://cdn.pixabay.com/photo/2023/03/14/08/34/duck-7851828_1280.jpg");
                     ImagemPato.SizeMode = PictureBoxSizeMode.Zoom;
                     display_Pato.Text = "Fire Duck";
                     this.BackColor = Color.Orange; // Fire Duck - Laranja

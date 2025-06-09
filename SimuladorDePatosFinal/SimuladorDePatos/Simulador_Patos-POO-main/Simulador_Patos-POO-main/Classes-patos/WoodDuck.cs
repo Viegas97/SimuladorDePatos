@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Simulador_Patos_POO
 {
-    internal class WoodDuck : IReciclar
+    internal class WoodDuck : Pato, IReciclar
     {
         public string Reciclavel()
         {

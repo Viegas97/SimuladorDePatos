@@ -8,7 +8,7 @@ using Simulador_Patos_POO.Interfaces_skills;
 
 namespace Simulador_Patos_POO
 {
-    public class MallardDuck : IFlayable, IQuackable, ISwimmable
+    public class MallardDuck : Pato, IFlayable, IQuackable, ISwimmable
     {
         public string display()
         {
